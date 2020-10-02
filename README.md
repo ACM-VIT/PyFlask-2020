@@ -1,9 +1,9 @@
 ![ACM-HEADER](https://user-images.githubusercontent.com/14032427/92643737-e6252e00-f2ff-11ea-8a51-1f1b69caba9f.png)
 
-<h1 align="center"> PROJECT TITLE </h1>
+<h1 align="center"> PyFlask 2020 </h1>
 
 <p align="center"> 
-Short description about the project.
+The official code repository for PyFlask 2020!
 </p>
 
 <p>
@@ -12,35 +12,31 @@ Short description about the project.
   </a>
     <!-- Uncomment the below line to add the license badge. Make sure the right license badge is reflected. -->
     <!-- <img alt="license" src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" /> -->
-    <!-- forks/stars/tech stack in the form of badges from https://shields.io/ -->
+    <img alt="stars" src="https://img.shields.io/github/stars/ACM-VIT/PyFlask-2020?style=social" align="right"/> 
+    <img alt="forks" src="https://img.shields.io/github/forks/ACM-VIT/PyFlask-2020?style=social" align="right"/>   
 </p>
 
----
 
-The overview starts here. Random text about the project, motive, how, what, why etc.
+## What are we going to learn today ?
+- [ ] Building A Starter Flask Project
+- [ ] Creating an API using Flask
+- [ ] Creating a Tic Tac Toe Bot with Flask!
 
----
-
-## Screenshots
-
-<!-- Add one screenshot of your project (max height: 1000px, max size: 1mb) 'if applicable' under assets folder in root of your project ![sceenshot](assets/<name of image>) -->
-<!-- if your project has multiple pictures , merge them into one image using a tool similar to figma -->
-
----
-
-## Usage
+## Get Started
 <!-- How To, Features, Installation etc. as subheadings in this section. example-->
 
 Lets get started!
 ```console
-git remote add
-git fetch
-git merge
+git clone https://github.com/ACM-VIT/PyFlask-2020.git
+cd PyFlask-2020/
 ```
-
 ---
+
 
 ## Authors
 
-**Authors:** <!-- [author1's name](link to their github profile), [author2's name](link to their github profile) .. -->  
+**Authors:** 
+[Eesha](https://github.com/eeshashetty), [Iishi](https://github.com/iishipatel)
+<!-- [author1's name](link to their github profile), [author2's name](link to their github profile) .. -->  
 **Contributors:** <!-- Generate contributors list using this link - https://contributors-img.web.app/preview -->
+<img src="https://contributors-img.web.app/image?repo=ACM-VIT/PyFlask-2020" />
