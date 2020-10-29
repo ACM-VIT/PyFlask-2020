@@ -1,0 +1,36 @@
+Ngrok
+Documentation-https://ngrok.com/docs
+Tutorial-https://www.youtube.com/watch?v=9gaaVbX0USI
+Alternatives for Ngrok-https://www.softwaretestinghelp.com/ngrok-alternatives/
+
+Heroku
+Documentation-https://devcenter.heroku.com/articles/getting-started-with-python
+Tutorial-https://www.youtube.com/watch?v=w25ea_I89iM
+
+AWS Lambda
+Documentation-https://docs.aws.amazon.com/lambda/latest/dg/getting-started.
+              https://docs.aws.amazon.com/
+Getting Started-https://www.youtube.com/watch?v=EBSdyoO3goc
+
+Google Cloud Platform
+Documentation-https://cloud.google.com/gcp/getting-started
+Tutorial-https://cloud.google.com/compute/docs/tutorials
+
+Microsoft Azure
+Documentation-https://docs.microsoft.com/en-us/azure/?product=featured
+Tutorial-https://azure.microsoft.com/en-in/get-started/
+
+Digital Ocean
+Documentation-https://www.digitalocean.com/docs/
+Tutorial-https://www.digitalocean.com/community/tutorials
+
+Docker
+Documentation-https://docs.docker.com
+Tutorial-https://www.youtube.com/watch?v=fqMOX6JJhGo
+
+GITHUB LINK (FOR FREE CREDITS)
+https://education.github.com/pack
+
+
+
+
